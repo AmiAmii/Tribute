@@ -1,0 +1,51 @@
+body {
+    
+    background-color: #b7c0c0;
+}
+
+.str {
+    margin:0 10%;
+    text-align: justify;
+}
+
+div {
+    margin:25px;
+    font-size: 20px;
+    
+}
+
+.sty {
+    text-align: center;
+}
+
+.styt {
+    background-color: #a39e9e;
+    margin:20px 400px;
+    text-align: center;
+}
+
+.sty1 {
+    font-family: 'Pacifico', cursive;
+    text-align:center;
+    font-size: 24px;
+    position:relative;
+    position: relative;
+    background-color: #9c9797;
+    margin:0% 25%;
+    padding:30px;
+    border-radius: 15px;
+    border: grey;
+    width:50%;
+    
+}
+
+li {
+    list-style-type: none;
+    padding:5px;
+}
+
+img {
+    border-radius: 50%;
+    width:300px;
+    height:300px;
+}
